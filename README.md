@@ -15,4 +15,7 @@ Disclaimer: I have no idea if this is the copy of the code that works or the mod
 /=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=|
 |#          R   --   O   --   B   --   O  --   T   --   I   --   C   --   S          #|
 \*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
-//dont use comic sans as your font for PROS, it breaks a few things like the terminal turns Ａ Ｅ Ｓ Ｔ Ｈ Ｅ Ｔ Ｉ Ｃ. ```
+//dont use comic sans as your font for PROS, it breaks a few things like the terminal turns Ａ Ｅ Ｓ Ｔ Ｈ Ｅ Ｔ Ｉ Ｃ. 
+```
+
+ToDo: Finish ReadMe
