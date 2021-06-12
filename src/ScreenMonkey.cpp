@@ -22,13 +22,12 @@
 #include "okapi/api.hpp"
 //#include "demo.h"
 
-#define GifFileDefinitioned "/usd/grav_escape.gif"
+#define GifFileDefinitioned "/usd/[Put file name here].gif"
 int GifOffsetXOffset = 0;
 int GifOffsetYOffset = 0;
 /*Name                  |  X   | Y  | Description
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 sans                    | 000 | 000 | Comic Sans
-pagedoll                | 000 | 000 | K1VO art
 
     !NEW!
 =-=-=-=
