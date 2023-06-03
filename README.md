@@ -1,6 +1,8 @@
 # PowerOfNeo
 Disclaimer: I have no idea if this is the copy of the code that works or the modification that is untested/unstable.
 
+This was a VEX robot script made for PROS for the V5. I made this in high school, so dont expect anything too fancy.
+
 Do not use as a reference for good code, as this is very much not good code
 
 ```          /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=/
